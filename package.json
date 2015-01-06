@@ -1,0 +1,31 @@
+{
+  "name": "fis-postprocessor-cssprefixer",
+  "description": "A optimizer for fis to autoprefixer css user postcss/autoprefixer.",
+  "version": "0.0.2",
+  "author": "p2world <p2world@163.com>",
+  "keywords": [
+    "fis",
+    "css",
+    "vendor",
+    "prefix",
+    "autoprefixer"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "autoprefixer-core": "4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/p2world/fis-postprocessor-cssprefixer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/p2world/fis-postprocessor-cssprefixer/issues"
+  },
+  "homepage": "https://github.com/p2world/fis-postprocessor-cssprefixer"
+}
