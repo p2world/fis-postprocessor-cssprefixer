@@ -1,7 +1,7 @@
 {
   "name": "fis-postprocessor-cssprefixer",
   "description": "A optimizer for fis to autoprefixer css user postcss/autoprefixer.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "p2world <p2world@163.com>",
   "keywords": [
     "fis",

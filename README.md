@@ -15,7 +15,7 @@ fis.config.set('modules.postprocessor.css', 'cssprefixer');
 fis.config.merge({
     settings : {
         postprocessor : {
-          autoprefixer : {
+          cssprefixer : {
               // detail config (https://github.com/postcss/autoprefixer#browsers)
               "browsers": ['FireFox > 1','Chrome > 1',"ie >= 8"]
             }
